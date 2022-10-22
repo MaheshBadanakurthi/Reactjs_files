@@ -1,0 +1,225 @@
+{
+    "Marvel":{
+        "Chars":[
+            {
+                "id":1,
+                "name":"Hulk",
+                "icon":"./Marvel_Img/Hulk.jpg",
+                "button":"Add to Cart",
+                "description": "The Power House"   
+        
+            },
+            
+            {
+                "id":2,
+                "name":"Natasa",
+                "icon":"./Marvel_Img/Natasa.jpeg",
+                "button":"Add to Cart" ,
+                "description": "Beauty with Brain" 
+            },
+            {
+                "id":3,
+                "name":"Loki",
+                "icon":"./Marvel_Img/Loki.jpeg",
+                "button":"Add to Cart" ,
+                "description": "King of Escape" 
+            },
+            {
+                "id":4,
+                "name":"Thor",
+                "icon":"./Marvel_Img/Thor.jpeg",
+                "button":"Add to Cart" ,
+                "description": "God of Thunder" 
+            },
+            
+            {
+                "id":5,
+                "name":"Wanda",
+                "icon":"./Marvel_Img/Wanda.jpg",
+                "button":"Add to Cart" ,
+                "description": "Beauty Witch" 
+            },
+            {
+                "id":6,
+                "name":"Black Panther",
+                "icon":"./Marvel_Img/BlackPanther.jpeg",
+                "button":"Add to Cart" ,
+                "description": "King of Wakanda" 
+            },
+            {
+                "id":7,
+                "name":"Dr.Stange",
+                "icon":"./Marvel_Img/Dr Strange.jpg",
+                "button":"Add to Cart" ,
+                "description": "Time changer" 
+            },
+            {
+                "id":8,
+                "name":"Iron Man",
+                "icon":"./Marvel_Img/IronMan.jpeg",
+                "button":"Add to Cart" ,
+                "description": " Play with Iron " 
+            },
+            {
+                "id":9,
+                "name":"Famuan",
+                "icon":"./Marvel_Img/Famuan.jpeg",
+                "button":"Add to Cart" ,
+                "description": " Brain needs work" 
+            },
+            {
+                "id":10,
+                "name":"Captain America",
+                "icon":"./Marvel_Img/Captain America.jpg",
+                "button":"Add to Cart" ,
+                "description": " Lets save the USA " 
+            }
+        
+        ],
+        "Comics":[
+            {
+                "id"        : 1,
+                "image"     : "./MarvelComics/Black Panther.jpeg",
+                "name"      : "Black Panther",
+                "description": "The black king of Wakanda",
+                "button"     : "Add to cart"
+            },
+            {
+                "id"        : 2,
+                "image"     : "./MarvelComics/Black Widow.jpeg",
+                "name"      : "Black Widow",
+                "description": "The show has just began",
+                "button"     : "Add to cart"
+            },
+            {
+                "id"        : 3,
+                "image"     : "./MarvelComics/Cap America.jpeg",
+                "name"      : "Captain America",
+                "description": "Lets save the USA",
+                "button"     : "Add to cart"
+            },
+            {
+                "id"        : 4,
+                "image"     : "./MarvelComics/Captain Marvel.jpg",
+                "name"      : "Captain Marvel",
+                "description": "A brave Women",
+                "button"     : "Add to cart"
+            },
+            {
+                "id"        : 5,
+                "image"     : "./MarvelComics/Dr strange.jpeg",
+                "name"      : "Dr strange",
+                "description": "Lets change the time",
+                "button"     : "Add to cart"
+            },
+            {
+                "id"        : 6,
+                "image"     : "./MarvelComics/hulk.jpg",
+                "name"      : "Hulk",
+                "description": "Never try to stop me",
+                "button"     : "Add to cart"
+            },
+            {
+                "id"        : 7,
+                "image"     : "./MarvelComics/Iron man.jpeg",
+                "name"      : "Iron man",
+                "description": "Feel the Power",
+                "button"     : "Add to cart"
+            },
+            {
+                "id"        : 8,
+                "image"     : "./MarvelComics/Spider Man.jpeg",
+                "name"      : "Spider Man",
+                "description": "Love to play with Pray",
+                "button"     : "Add to cart"
+            },
+            {
+                "id"        : 9,
+                "image"     : "./MarvelComics/thanos.jpg",
+                "name"      : "thanos",
+                "description": "Lets destroy the Heros",
+                "button"     : "Add to cart"
+            },
+            {
+                "id"        : 10,
+                "image"     : "./MarvelComics/Thor.jpeg",
+                "name"      : "Thor",
+                "description": "God of Thunder",
+                "button"     : "Add to cart"
+            }
+        
+        ],
+        "Stories":[
+            {
+                "id":1,
+                "name":"Cap America",
+                "image":"./Marvel_Stories/cap america.jpg",
+                "description":" Can you be with me to save the USA ",
+                "button":"Add to Cart" 
+            },
+             {
+                "id":2,
+                "name":"Dr strange",
+                "image":"./Marvel_Stories/dr strange.jpg",
+                "description":" I can change the things which you  cann't ",
+                "button":"Add to Cart" 
+            },
+            {
+               "id":3,
+               "name":"Hulk",
+               "image":"./Marvel_Stories/hullk.jpg",
+               "description":" Am the Strong Man ",
+               "button":"Add to Cart" 
+           },
+           {
+              "id":4,
+              "name":"Iron Man",
+              "image":"./Marvel_Stories/Iron.jpg",
+              "description":" Always innovative ",
+              "button":"Add to Cart" 
+          },
+          {
+             "id":5,
+             "name":"Mis Marvel",
+             "image":"./Marvel_Stories/Mis marvel.jpg",
+             "description":" Be brave like me ",
+             "button":"Add to Cart" 
+         },
+         {
+            "id":6,
+            "name":"Shauri",
+            "image":"./Marvel_Stories/mis panther.jpg",
+            "description":" lets your thoughts innovative ",
+            "button":"Add to Cart" 
+        },
+        {
+           "id":7,
+           "name":"BlackPanther",
+           "image":"./Marvel_Stories/panther.jpg",
+           "description":" The king of Wakanda  ",
+           "button":"Add to Cart" 
+        },
+        {
+           "id":8,
+           "name":"Spider Man",
+           "image":"./Marvel_Stories/Spider Man.jpg",
+           "description":" Am here to Save you ",
+           "button":"Add to Cart" 
+        },
+        {
+           "id":9,
+           "name":"Thor",
+           "image":"./Marvel_Stories/Thor.jpg",
+           "description":" God of Thunder ",
+           "button":"Add to Cart" 
+        },
+        {
+           "id":10,
+           "name":"Wanda",
+           "image":"./Marvel_Stories/wanda.jpg",
+           "description":" Beauty with Brain ",
+           "button":"Add to Cart" 
+        }
+        ]
+    }
+}

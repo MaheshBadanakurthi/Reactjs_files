@@ -1,0 +1,44 @@
+
+
+.headheight{
+    height: 160px;
+    width: 100%;
+    background-color: rgb(3, 14, 14);
+}
+.myimg{
+    height: 140x;
+    width: 240px;
+   position:relative;
+   margin-right:1400px;
+   padding-top: 20px;
+   
+}
+.headBar{
+    color: rgb(247, 241, 241);
+    position: absolute;
+    font-size: 40px;
+    display: flex;
+    top:20px;
+    margin-left: 380px;
+    column-gap: 130px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h3:hover{
+    color: red;
+    text-shadow: 1px 0px white;
+   font-size: 50px;
+   cursor: pointer;
+    
+}
+
+.forh4{
+    font-size: 44px;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 7px;
+    font-style: oblique;
+}
+
+
+

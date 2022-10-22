@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+.Masterdiv{
+    background-color: rgb(244, 145, 7);
+    height: 1000px;
+
+}
+.forCARD{
+    margin-top: 70px;
+    height: 280px;
+    width: 250px;
+    background-color:white;
+    position: relative;
+    margin-left: 90px;
+    border: 3px ridge rgb(165, 39, 39);
+    border-radius: 5px;
+    
+}
+.forImg{
+    height: 70%;
+    width: 100%;
+    position: relative;
+}
+
+.forName{
+    font-size: 26px;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.forbtn{
+    height: 26px;
+    width: 150px;
+    position: relative;
+    margin-top: 10px;
+    background-color: rgb(86, 86, 239);
+    color: white;
+    font-size: 16px;
+    border-radius: 10px;
+    font-weight: 800;
+    margin-left: 20%;
+}
+.cart{
+    color: rgb(16, 13, 12);
+    font-size: 17px;
+    padding-right: 15px;
+}
+
+.displayFlex{   
+    display: inline-block;
+    position: relative;
+}

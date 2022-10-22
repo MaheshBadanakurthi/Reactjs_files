@@ -1,0 +1,192 @@
+body{
+    background-color: black;
+}
+.masterdiv{
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+
+
+}
+
+
+
+
+.headheight{
+    height: 130px;
+    width: 100%;
+    background-color: rgb(3, 14, 14);
+}
+
+.myimg{
+    height:100px;
+    width: 310px;
+    position: relative;
+    margin-right:76% ;
+    margin-top: 25px;
+}
+
+.headBar{
+    display: flex;
+    position: absolute;
+    column-gap: 80px;
+    top:30px;
+    font-size: 35px;
+    margin-left: 400px;
+    color: white;
+    text-shadow: 3px 3px green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading2{
+    color: rgb(17, 11, 11);
+    position: absolute;
+    margin-left: 90px;
+    top:110px;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+.mycard01{
+    height: 280px;
+    width: 206px;
+    background-color: rgba(255, 255, 255, 0.97);
+    position: absolute;
+    top:217px;
+    margin-left: 100px;
+    border: 2px ridge black;
+}
+
+.myimg01{
+    height:160px ;
+    width: 206px;
+}
+
+.charName{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top:148px;
+    margin-left: 40px;
+}
+.charName2{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top:148px;
+    margin-left: 70px;
+}
+
+.fontCart{
+    font-size: 16px;
+}
+.forBtn{
+    background-color: white;
+    color: rgb(16, 14, 14);
+    font-size: 22px;
+    margin-top: 73px;
+}
+
+.forBtn2{
+    background-color: white;
+    color: rgb(16, 14, 14);
+    font-size: 22px;
+    margin-top: 15px;
+}
+
+
+.mycard02{
+    height: 280px;
+    width: 203px;
+    background-color: white;
+    position: absolute;
+    top:217px;
+    margin-left: 400px;
+    border: 2px ridge black;
+}
+
+.mycard03{
+    height: 280px;
+    width: 203px;
+    background-color: white;
+    position: absolute;
+    top:217px;
+    margin-left: 700px;
+    border: 2px ridge black;
+}
+
+.mycard04{
+    height: 280px;
+    width: 203px;
+    background-color: white;
+    position: absolute;
+    top:217px;
+    margin-left: 1000px;
+    border: 2px ridge black;
+}
+
+.mycard05{
+    height: 280px;
+    width: 203px;
+    background-color: white;
+    position: absolute;
+    top:217px;
+    margin-left: 1300px;
+    border: 2px ridge black;
+}
+
+.mycard06{
+    height: 280px;
+    width: 203px;
+    background-color: white;
+    position: absolute;
+    top:570px;
+    margin-left: 100px;
+    border: 2px ridge black;
+}
+
+.mycard07{
+    height: 280px;
+    width: 203px;
+    background-color: white;
+    position: absolute;
+    top:570px;
+    margin-left: 400px;
+    border: 2px ridge black;
+}
+
+.mycard08{
+    height: 280px;
+    width: 203px;
+    background-color: white;
+    position: absolute;
+    top:570px;
+    margin-left: 700px;
+    border: 2px ridge black;
+}
+
+
+.mycard09{
+    height: 70%px;
+    width: 100%;
+    background-color: white;
+    position: absolute;
+    top:570px;
+    margin-left: 1000px;
+    border: 2px ridge black;
+}
+
+
+.mycard10{
+    height: 280px;
+    width: 203px;
+    background-color: white;
+    position: absolute;
+    top:570px;
+    margin-left: 1300px;
+    border: 2px ridge black;
+}
+
+
+

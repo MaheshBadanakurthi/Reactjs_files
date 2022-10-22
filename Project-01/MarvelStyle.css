@@ -1,0 +1,47 @@
+.Masterdiv{
+    background-color: white;
+    height: 1000px;
+
+}
+
+
+
+.cards{
+    margin-top: 80px;
+    height: 280px;
+    width: 250px;
+    background-color:white;
+    position: relative;
+    margin-left: 90px;
+    border: 3px ridge rgb(126, 120, 120);
+    border-radius: 7px;
+    
+}
+
+.myimg001{
+    height: 70%;
+    width: 100%;
+    position: relative;
+}
+
+.txtcolor{
+    color: rgb(13, 12, 12);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btns{
+    font-size: 20px;
+    position: relative;
+    height: 30px;
+    width: 170px;
+    top:20px;
+    background-color: rgb(18, 18, 227);
+    border-radius: 12px;
+    color: white;
+}
+
+.displayFlex{
+    display:inline-block;
+}
+
+

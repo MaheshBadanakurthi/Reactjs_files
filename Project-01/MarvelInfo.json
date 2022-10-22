@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "name":"Hulk",
+        "icon":"./Marvel_Img/Hulk.jpg",
+        "button":"Add to Cart",
+        "description": "The Power House"   
+
+    },
+    
+    {
+        "id":2,
+        "name":"Natasa",
+        "icon":"./Marvel_Img/Natasa.jpeg",
+        "button":"Add to Cart" ,
+        "description": "Beauty with Brain" 
+    },
+    {
+        "id":3,
+        "name":"Loki",
+        "icon":"./Marvel_Img/Loki.jpeg",
+        "button":"Add to Cart" ,
+        "description": "King of Escape" 
+    },
+    {
+        "id":4,
+        "name":"Thor",
+        "icon":"./Marvel_Img/Thor.jpeg",
+        "button":"Add to Cart" ,
+        "description": "God of Thunder" 
+    },
+    
+    {
+        "id":5,
+        "name":"Wanda",
+        "icon":"./Marvel_Img/Wanda.jpg",
+        "button":"Add to Cart" ,
+        "description": "Beauty Witch" 
+    },
+    {
+        "id":6,
+        "name":"Black Panther",
+        "icon":"./Marvel_Img/BlackPanther.jpeg",
+        "button":"Add to Cart" ,
+        "description": "King of Wakanda" 
+    },
+    {
+        "id":7,
+        "name":"Dr.Stange",
+        "icon":"./Marvel_Img/Dr Strange.jpg",
+        "button":"Add to Cart" ,
+        "description": "Time changer" 
+    },
+    {
+        "id":8,
+        "name":"Iron Man",
+        "icon":"./Marvel_Img/IronMan.jpeg",
+        "button":"Add to Cart" ,
+        "description": " Play with Iron " 
+    },
+    {
+        "id":9,
+        "name":"Famuan",
+        "icon":"./Marvel_Img/Famuan.jpeg",
+        "button":"Add to Cart" ,
+        "description": " Brain needs work" 
+    },
+    {
+        "id":10,
+        "name":"Captain America",
+        "icon":"./Marvel_Img/Captain America.jpg",
+        "button":"Add to Cart" ,
+        "description": " Lets save the USA " 
+    }
+
+    ]

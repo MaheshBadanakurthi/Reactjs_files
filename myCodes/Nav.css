@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+.Navbar{
+    
+background-color: rgb(20, 23, 23);
+color: white;
+justify-content:space-between;
+font-size: 40px;
+align-items: center;
+gap: 2rem;
+display: flex;
+padding-left: 100px;
+}
+.Navbar ul{
+   /* padding-right: 300px; */
+   
+    list-style: none;
+    display: flex;
+    gap: 12rem;
+    height: 100%;
+    text-decoration: none;
+    align-items: center;
+    padding:.25rem;
+    margin-right: 300px;
+}
+.o1:hover{
+    background-color: white;
+
+}
+.o2:hover{
+    background-color: white;
+
+}
+
+
+

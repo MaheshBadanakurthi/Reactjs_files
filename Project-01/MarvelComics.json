@@ -1,0 +1,73 @@
+[
+    {
+        "id"        : 1,
+        "image"     : "./MarvelComics/Black Panther.jpeg",
+        "name"      : "Black Panther",
+        "description": "The black king of Wakanda",
+        "button"     : "Add to cart"
+    },
+    {
+        "id"        : 2,
+        "image"     : "./MarvelComics/Black Widow.jpeg",
+        "name"      : "Black Widow",
+        "description": "The show has just began",
+        "button"     : "Add to cart"
+    },
+    {
+        "id"        : 3,
+        "image"     : "./MarvelComics/Cap America.jpeg",
+        "name"      : "Captain America",
+        "description": "Lets save the USA",
+        "button"     : "Add to cart"
+    },
+    {
+        "id"        : 4,
+        "image"     : "./MarvelComics/Captain Marvel.jpg",
+        "name"      : "Captain Marvel",
+        "description": "A brave Women",
+        "button"     : "Add to cart"
+    },
+    {
+        "id"        : 5,
+        "image"     : "./MarvelComics/Dr strange.jpeg",
+        "name"      : "Dr strange",
+        "description": "Lets change the time",
+        "button"     : "Add to cart"
+    },
+    {
+        "id"        : 6,
+        "image"     : "./MarvelComics/hulk.jpg",
+        "name"      : "Hulk",
+        "description": "Never try to stop me",
+        "button"     : "Add to cart"
+    },
+    {
+        "id"        : 7,
+        "image"     : "./MarvelComics/Iron man.jpeg",
+        "name"      : "Iron man",
+        "description": "Feel the Power",
+        "button"     : "Add to cart"
+    },
+    {
+        "id"        : 8,
+        "image"     : "./MarvelComics/Spider Man.jpeg",
+        "name"      : "Spider Man",
+        "description": "Love to play with Pray",
+        "button"     : "Add to cart"
+    },
+    {
+        "id"        : 9,
+        "image"     : "./MarvelComics/thanos.jpg",
+        "name"      : "thanos",
+        "description": "Lets destroy the Heros",
+        "button"     : "Add to cart"
+    },
+    {
+        "id"        : 10,
+        "image"     : "./MarvelComics/Thor.jpeg",
+        "name"      : "Thor",
+        "description": "God of Thunder",
+        "button"     : "Add to cart"
+    }
+
+]

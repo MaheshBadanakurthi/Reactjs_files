@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "name":"Cap America",
+        "image":"./Marvel_Stories/cap america.jpg",
+        "description":" Can you be with me to save the USA ",
+        "button":"Add to Cart" 
+    },
+     {
+        "id":2,
+        "name":"Dr strange",
+        "image":"./Marvel_Stories/dr strange.jpg",
+        "description":" I can change the things which you  cann't ",
+        "button":"Add to Cart" 
+    },
+    {
+       "id":3,
+       "name":"Hulk",
+       "image":"./Marvel_Stories/hullk.jpg",
+       "description":" Am the Strong Man ",
+       "button":"Add to Cart" 
+   },
+   {
+      "id":4,
+      "name":"Iron Man",
+      "image":"./Marvel_Stories/Iron.jpg",
+      "description":" Always innovative ",
+      "button":"Add to Cart" 
+  },
+  {
+     "id":5,
+     "name":"Mis Marvel",
+     "image":"./Marvel_Stories/Mis marvel.jpg",
+     "description":" Be brave like me ",
+     "button":"Add to Cart" 
+ },
+ {
+    "id":6,
+    "name":"Shauri",
+    "image":"./Marvel_Stories/mis panther.jpg",
+    "description":" lets your thoughts innovative ",
+    "button":"Add to Cart" 
+},
+{
+   "id":7,
+   "name":"BlackPanther",
+   "image":"./Marvel_Stories/panther.jpg",
+   "description":" The king of Wakanda  ",
+   "button":"Add to Cart" 
+},
+{
+   "id":8,
+   "name":"Spider Man",
+   "image":"./Marvel_Stories/Spider Man.jpg",
+   "description":" Am here to Save you ",
+   "button":"Add to Cart" 
+},
+{
+   "id":9,
+   "name":"Thor",
+   "image":"./Marvel_Stories/Thor.jpg",
+   "description":" God of Thunder ",
+   "button":"Add to Cart" 
+},
+{
+   "id":10,
+   "name":"Wanda",
+   "image":"./Marvel_Stories/wanda.jpg",
+   "description":" Beauty with Brain ",
+   "button":"Add to Cart" 
+}
+]
